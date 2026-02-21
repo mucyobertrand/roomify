@@ -91,7 +91,7 @@ export default function App() {
       context={{
         ...authState,refreshAuth,signIn,signOut
       }}
-    />;
+    />
   </main>)
 }
 
